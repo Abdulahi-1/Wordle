@@ -31,7 +31,7 @@ https://www.loom.com/share/2920313a515d4798b33a24bfcb6c7da6?sid=cba6eba5-6205-4c
 
 ## Notes
 
-One challenge that I faced with building the app was making the reset button appear. It was frustrating because the button wasn't actually resetting the field, but eventually worked after changing some commands. Another challenge I faced was making my source code appear in github. The only thing appearing is my README file, which is very weird. I've tried using my terminal and Github Desktop but nothing seems to be working. I'll get it figured out, hopefully..
+One challenge that I faced with building the app was making the reset button appear. It was frustrating because the button wasn't actually resetting the field, but eventually worked after changing some commands. Another challenge I faced was making my source code appear in github. The only file that was appearing in my repo was the README file, which was very weird. Fortunately, after reading Git command documentation, I was able to manually push my commit through terminal. Giving myself a pat on the back.
 
 ## License
 
