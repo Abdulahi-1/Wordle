@@ -1,4 +1,4 @@
-# WordleProject
+# Wordle Project
 
 Submitted by: Abdulahi Abdi
 
