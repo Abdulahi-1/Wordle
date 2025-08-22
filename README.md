@@ -1,4 +1,4 @@
-# Wordle Project
+# Wordle
 
 Submitted by: Abdulahi Abdi
 
@@ -31,7 +31,8 @@ https://www.loom.com/share/2920313a515d4798b33a24bfcb6c7da6?sid=cba6eba5-6205-4c
 
 ## Notes
 
-One challenge that I faced with building the app was making the reset button appear. It was frustrating because the button wasn't actually resetting the field, but eventually worked after changing some commands. Another challenge I faced was making my source code appear in github. The only file that was appearing in my repo was the README file, which was very weird. Fortunately, after reading Git command documentation, I was able to manually push my commit through terminal. Giving myself a pat on the back.
+One challenge I faced while building the app was making the reset button work properly. Initially, the button appeared, but it didn’t actually reset the field, which was frustrating. After reviewing my code and adjusting some of the commands controlling the button’s behavior, I was able to make it function correctly. This not only improved the app’s usability but also gave me confidence in troubleshooting UI issues.
+Another challenge was getting my source code to appear on GitHub. At first, only the README file was visible in my repository, which was confusing. By carefully reading the Git command documentation, I learned how to manually push my commits through the terminal. Once I did this, all my source files appeared correctly in the repo, allowing me to successfully share my project online and maintain proper version control. Overcoming these challenges strengthened both my coding and problem-solving skills.
 
 ## License
 
